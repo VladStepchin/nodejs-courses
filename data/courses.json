@@ -1,0 +1,25 @@
+[{
+        "title": ".NET Framework",
+        "price": "119999",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg",
+        "id": "6d5807f0-e575-48de-b179-f21cd20ff562"
+    },
+    {
+        "title": "Google",
+        "price": "1000",
+        "image": "https://www.google.com.ua/images/branding/googlelogo/2x/googlelogo_color_160x56dp.png",
+        "id": "6d5807f0-e575-48de-b179-f21cd80ff562"
+    },
+    {
+        "title": "Angular",
+        "price": "1500",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png",
+        "id": "a627fdc9-2aef-4543-87f8-781bd3e93e49"
+    },
+    {
+        "title": "Alinet",
+        "price": "100000",
+        "image": "https://scontent.flwo1-1.fna.fbcdn.net/v/t39.30808-6/275258611_4644101975696486_7451538427609452723_n.jpg?_nc_cat=108&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=PAEeTnqoIYwAX_83AZS&_nc_ht=scontent.flwo1-1.fna&oh=00_AT99m_nu_2CJOiivQgH1SWbyw-OxQgf6l8-RwxYj8nu6jw&oe=627B3367",
+        "id": "4822d705-1395-4a0b-bf2b-61ba3e031183"
+    }
+]
